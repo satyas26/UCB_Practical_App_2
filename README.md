@@ -67,4 +67,15 @@ This project follows the established **Cross-Industry Standard Process for Data 
     4. **Linear Regression** — using 10 SFS-selected features from `preprocessor_Poly`
     5. **Ridge Regression** — using all 34 original features from `preprocessor_Poly`
     6. **Lasso Regression** — using all 34 original features from `preprocessor_Poly`
+
+  - Model Comparison  
+    ![Model Comparison](/images/model_comparison.png) 
+
 ---
+
+
+## Conclusion
+The analysis confirms that considering non-linear relationships through polynomial features, combined with regularization, provides a more robust model for predicting used car prices
+
+### Detailed Analysis
+- https://github.com/satyas26/UCB_Practical_App_2/blob/main/Car_Price_Modeling.ipynb
